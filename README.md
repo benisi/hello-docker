@@ -1,3 +1,3 @@
 # hello-docker
-JUst testing docker with circle ci
-# hello
+Just testing docker with circle ci
+
